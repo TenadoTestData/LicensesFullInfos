@@ -1,0 +1,142 @@
+{
+  "Licenses": [
+    {
+      "license_id": 14021,
+      "LicenseKey": "Q7ALOFCTAAAABL2BNBOA",
+      "LicenseType": 1,
+      "ProService": true,
+      "DebugVersion": "22.9.9999",
+      "MaxVersion": "22.1.8181",
+      "Active": true,
+      "ProductName": "TENADO PROTECT",
+      "ProductId": 9,
+      "ExpirationDate": 1861833600,
+      "ActivationDate": 1619714152,
+      "Reg_name": "TENADOPROTECT22",
+      "Product_name": "TENADOPROTECT",
+      "Full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT22\\Products\\TENADOPROTECT22",
+      "Link": "http...",
+      "Size": 123,
+      "Checksum": "abcd",
+      "UpdateType": 0,
+      "Description": "abc",
+      "Modules": [
+        {
+          "module_name": "TENADO_HK_Pandemie_Symbolik",
+          "id": 557791,
+          "license_id": 1123,
+          "module_id": 112,
+          "priority": 9999,
+          "is_new": 0,
+          "max_version": "19",
+          "name": "TENADO_HK_Pandemie_Symbolik",
+          "speaking_name": "TENADO Pandemie-Symbolik",
+          "reg_name": "TENADO_HK_Pandemie_Symbolik",
+          "version": "19",
+          "active": 1,
+          "display_sc": 1,
+          "cat": 9,
+          "module_priority": 9999,
+          "important": 0,
+          "lang": "de",
+          "stand_alone": 0,
+          "file_type": 3,
+          "advanced": 0,
+          "x86": 0,
+          "installer_state": 0,
+          "category_name": "Bibliotheken",
+          "category_priority": 300,
+          "major": null,
+          "full_path": null,
+          "link": null,
+          "checksum": null,
+          "dependencies": [
+            {
+              "target_version": "19",
+              "min_version": "19.6.8240",
+              "max_version": "22.9.9999",
+              "opt": 0,
+              "product_id": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "license_id": 14022,
+      "LicenseKey": "O2R4WESYAAAAAQQ74MHA",
+      "LicenseType": 1,
+      "ProService": false,
+      "DebugVersion": "22.9.9999",
+      "MaxVersion": "22.1.8121",
+      "Active": true,
+      "ProductName": "TENADO CAD 2D",
+      "ProductId": 10,
+      "ExpirationDate": 1861833600,
+      "ActivationDate": 1619714071,
+      "Reg_name": "TENADOCAD22",
+      "Product_name": "TENADOCAD",
+      "Full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD22\\Products\\TENADOCAD22",
+      "Link": "http...",
+      "Size": 123,
+      "Checksum": "abcd",
+      "UpdateType": 0,
+      "Description": "abc",
+      "Modules": [
+        {
+          "module_name": "TENADO_HK_SUEDMETALL_2D",
+          "id": 259714,
+          "license_id": 1124,
+          "module_id": 87,
+          "priority": 9999,
+          "is_new": 0,
+          "max_version": "19.0.0002",
+          "name": "TENADO_HK_SUEDMETALL_2D",
+          "speaking_name": "TENADO_HK_SUEDMETALL_2D",
+          "reg_name": "TENADO_HK_SUEDMETALL_2D",
+          "version": "19.0.0002",
+          "active": 1,
+          "display_sc": 1,
+          "cat": 3,
+          "module_priority": 9999,
+          "important": 0,
+          "lang": "de",
+          "stand_alone": 0,
+          "file_type": 3,
+          "advanced": 0,
+          "x86": 0,
+          "installer_state": 0,
+          "category_name": "Herstellerkataloge",
+          "category_priority": 300,
+          "major": null,
+          "full_path": null,
+          "link": null,
+          "checksum": null,
+          "dependencies": [
+            {
+              "target_version": "19",
+              "min_version": "19.0.0000",
+              "max_version": "22.9.9999",
+              "opt": 0,
+              "product_id": 14
+            },
+            {
+              "target_version": "19.0.0001",
+              "min_version": "19.0.0000",
+              "max_version": "22.9.9999",
+              "opt": 0,
+              "product_id": 14
+            },
+            {
+              "target_version": "19.0.0002",
+              "min_version": "19.0.0000",
+              "max_version": "22.9.9999",
+              "opt": 0,
+              "product_id": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
