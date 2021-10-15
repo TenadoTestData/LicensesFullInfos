@@ -24,7 +24,6 @@
       "Description": "abc",
       "Modules": [
         {
-          "module_name": "TENADO_HK_Pandemie_Symbolik",
           "id": 557791,
           "license_id": 1123,
           "module_id": 112,
@@ -53,8 +52,7 @@
           "link": null,
           "checksum": null,
           "dependencies": [
-            {
-              "target_version": "19",
+            "19":{
               "min_version": "19.6.8240",
               "max_version": "22.9.9999",
               "opt": 0,
@@ -86,7 +84,6 @@
       "Description": "abc",
       "Modules": [
         {
-          "module_name": "TENADO_HK_SUEDMETALL_2D",
           "id": 259714,
           "license_id": 1124,
           "module_id": 87,
@@ -115,22 +112,21 @@
           "link": null,
           "checksum": null,
           "dependencies": [
-            {
-              "target_version": "19",
+            "19":{
               "min_version": "19.0.0000",
               "max_version": "22.9.9999",
               "opt": 0,
               "product_id": 14
             },
-            {
-              "target_version": "19.0.0001",
+            
+              "19.0.0001":{
               "min_version": "19.0.0000",
               "max_version": "22.9.9999",
               "opt": 0,
               "product_id": 14
             },
-            {
-              "target_version": "19.0.0002",
+            
+             "19.0.0002":{
               "min_version": "19.0.0000",
               "max_version": "22.9.9999",
               "opt": 0,
